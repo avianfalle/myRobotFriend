@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f04b6729-4e01-43f2-812c-cc15b5105183/deploy-status)](https://app.netlify.com/sites/mellifluous-valkyrie-2cc806/deploys)
